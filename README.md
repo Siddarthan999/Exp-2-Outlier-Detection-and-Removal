@@ -127,3 +127,6 @@ print(outliers)
 ![image](https://user-images.githubusercontent.com/91734840/230837636-d317c569-1b6e-4f6b-90a5-7eadadcd3791.png)
 ![image](https://user-images.githubusercontent.com/91734840/230837672-c09f85e8-fac4-487e-986a-2f90c5950790.png)
 
+# RESULT
+
+Thus, to read the given data and perform Outlier Detection and Removal has been performed successfully.
