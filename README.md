@@ -14,23 +14,23 @@ Outlier detection and removal is a crucial data analysis step for a machine lear
 
 Read the given Data
 
-# STEP 2
+### STEP 2
 
 Get the information about the data
 
-# STEP 3
+### STEP 3
 
 Remove outliers using IQR
 
-# STEP 4
+### STEP 4
 
 After removing outliers in step 3, you get a new dataframe
 
-# STEP 5
+### STEP 5
 
 Use zscore of 3 to remove outliers. This is quite similar to IQR and you will get exact same result
 
-# STEP 6
+### STEP 6
 
 for the data set height_weight.csv find the following
 
